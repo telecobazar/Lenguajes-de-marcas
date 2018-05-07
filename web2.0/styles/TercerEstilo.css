@@ -1,0 +1,16 @@
+p{
+	font-size: 100pt;
+	color: rgb(255,125,125);
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+
+body{
+	background-color: blue;
+}
+
+img{
+	width:800px; height: 800px;
+}

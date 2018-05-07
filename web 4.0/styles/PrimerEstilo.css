@@ -1,0 +1,21 @@
+p{
+	font-size: 20pt;
+	color: rgb(0,255,0);
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+
+img{
+	background: blue;
+	width:800px; height: 600px;
+}
+
+h1{
+	font-size: 20pt;
+	color: rgb(255,0,0);
+	font-family: arial;
+	font-weight: bold;
+
+}

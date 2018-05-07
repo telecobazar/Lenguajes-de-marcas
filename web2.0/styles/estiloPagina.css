@@ -1,0 +1,13 @@
+p{
+	font-style: arial;
+	font-size: 50pt;
+	color:red;
+}
+
+body{
+	background-color: blue;
+}
+
+img{
+	width:100px; height: 100px;
+}

@@ -1,0 +1,15 @@
+p{
+	font-size: 30pt;
+	color: rgb(255,0,0);
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+body{
+	background-color: blue;
+}
+
+img{
+	width:100px; height: 100px;
+}
